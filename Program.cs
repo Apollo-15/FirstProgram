@@ -5,6 +5,8 @@ namespace FirstProgram
     {
         public static void Main(string[] args)
         {
+            // PPRG
+
             // Poziom łatwy
 
             // DisplayCard();
@@ -27,7 +29,11 @@ namespace FirstProgram
 
             // Zadanie Projectowe
 
-            HelloAdventure();
+            // HelloAdventure();
+
+            // WARP
+
+            System.Console.WriteLine("Hello, Warsztacie Programisty!");
         }
 
         public static void DisplayCard()
