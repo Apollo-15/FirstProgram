@@ -10,3 +10,6 @@ bash
 
 ## Kontakt
 Autor: Student — Warsztat Programisty
+
+## Uruchomienie
+dotnet build
