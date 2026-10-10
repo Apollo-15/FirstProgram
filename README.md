@@ -9,5 +9,4 @@ bash
 
 
 ## Kontakt
-Author: Student 
-
+Autor: Student — Warsztat Programisty
