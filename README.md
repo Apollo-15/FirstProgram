@@ -6,3 +6,8 @@ First Program
 bash
 
 `dotnet run`
+
+
+## Kontakt
+Author: Student 
+
