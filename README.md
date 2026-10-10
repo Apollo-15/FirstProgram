@@ -13,3 +13,5 @@ Autor: Student — Warsztat Programisty
 
 
 ## Uruchomienie
+
+dotnet run
