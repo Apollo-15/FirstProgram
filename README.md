@@ -14,4 +14,5 @@ Autor: Student — Warsztat Programisty
 
 ## Uruchomienie
 
+dotnet build
 dotnet run
