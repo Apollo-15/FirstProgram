@@ -6,3 +6,7 @@ First Program
 bash
 
 `dotnet run`
+
+
+## Kontakt
+Zespół: Warsztat Programisty
